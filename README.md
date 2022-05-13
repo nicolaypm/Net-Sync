@@ -32,6 +32,8 @@ sudo python3 main.py
 ## Usage
 to sniff and collect packets over a network. we to Enter the sniff option and then specify how many packets we want to collect.
 
+
+to create a packet you can go to the creator and set a source IP address and a destination IP address.
 ## Contributing
 Pull requsts are welcome. For major changes, please open issue first to discuss what you would like to change.
 
