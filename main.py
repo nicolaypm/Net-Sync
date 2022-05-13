@@ -1,5 +1,5 @@
-# this function will import test from the src directory
-import src.test
+# this function will import sniffer_file from the src directory
+import src.sniffer_file
 
 # this function prints the command that the user can execute
 print("""
@@ -15,7 +15,7 @@ def Start_main():
     
     # this function will start the sniff process
     if User_input == 'sniff':
-        src.test.sniffer()
+        src.sniffer_file.Sniffer()
         # after the sniff process go back to the main process
         Start_main()
 
