@@ -2,10 +2,10 @@
 
 Net-Sync is an open-source network testing tool for ethical hacking. 
 
-- Net-Sync is based on Scapy. 
-- Create your packets over a network. 
+- Net-Sync is based on Scapy.  
 - Sniff and collect packets over a network. 
-- Block packets inside a network. 
+- DOS spaning tree via Net-Sync.
+- VLAN Jumping via Net-Sync.
 - And meny more.
 
 ## Install Net-Sync
@@ -30,10 +30,9 @@ start the program alle we need to do is run the following command
 sudo python3 main.py
 ```
 ## Usage
-to sniff and collect packets over a network. we to Enter the sniff option and then specify how many packets we want to collect.
-
-
-to create a packet you can go to the creator and set a source IP address and a destination IP address.
+- to sniff and collect packets over a network. we to Enter the sniff option and then specify how many packets we want to collect.
+- DOS Spaning Tree, we need to Enter the Spaning Tree option and then specify the MAC address of the Spaning Tree
+- VLAN Jumping, this will let the attacker see the traffic over odder VLANs. 
 ## Contributing
 Pull requsts are welcome. For major changes, please open issue first to discuss what you would like to change.
 
