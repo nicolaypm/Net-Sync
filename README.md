@@ -40,6 +40,6 @@ Please make sure to update tests as appropriate.
 
 ## Code
 **main.py**
-![main]!(https://carbon.now.sh/197db0d7-0f4d-441f-97d2-c2d901a55e34)
+![main!](https://carbon.now.sh/197db0d7-0f4d-441f-97d2-c2d901a55e34)
 ## License
 thenerds.xyz
